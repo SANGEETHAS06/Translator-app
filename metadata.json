@@ -1,0 +1,6 @@
+{
+  "name": "VoxLingo",
+  "description": "Real-time automatic speech transcription and English translation with multi-language support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["audio_processing", "translation"]
+}
